@@ -1,0 +1,10 @@
+name: Brave Friend
+bio: |
+  Bio text.
+avatar: ./avatars/brave-friends.png
+social:
+  - url: https://unsplash.com
+  - url: https://stackoverflow.com
+  - url: https://github.com
+  - url: https://github.com
+  - url: https://github.com
